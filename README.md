@@ -7,7 +7,7 @@ The PHP Code Obfuscator is a lightweight yet powerful tool aimed at enhancing th
 
 ## Features:
 
-- **Code Obfuscation**: Encrypts and obfuscates PHP code, making it challenging for unauthorized users to decipher. [Unless they just decrypt it with the key!]
+- **Code Obfuscation**: Encrypts and obfuscates PHP code, making it challenging for unauthorized users to decipher. (Unless they just decrypt it with the key!)
 - **Intellectual Property Protection**: Safeguard your proprietary algorithms and trade secrets from unauthorized access and replication.
 - **Enhanced Security**: Minimize the risk of code tampering, injection attacks, and reverse engineering.
 - **Compliance Readiness**: Align with industry standards and regulatory requirements by implementing robust security measures.
