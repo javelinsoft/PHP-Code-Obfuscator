@@ -1,7 +1,7 @@
 
 # PHP Code Obfuscator
 
-The PHP Code Obfuscator is a lightweight yet powerful tool aimed at enhancing the security of PHP scripts. By obfuscating the code, it helps protect your intellectual property and strengthens the security posture of your web applications.
+The PHP Code Obfuscator is a lightweight tool aimed at enhancing the obscurity of PHP scripts by obfuscating the code.
 
 ![image](https://github.com/Javelinblog/PHP-Code-Obfuscator/assets/155771659/6112a3a8-580b-4448-ae45-c00582336ff7)
 
